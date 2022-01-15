@@ -1,7 +1,7 @@
 # Sample code
 # Ctrl + Shift + P
-print("Test")
-print('Testing 2') # it is an example
+msg = "Goyeenaa"
+print(msg) # it is an example
 a = 15
 print('a is: ', a)
 
@@ -27,4 +27,4 @@ print(my_condition1)
 c = 'hello'
 
 # m = input("Enter a number: ")
-# print("You entered: " + str(m) + '. Done!')
+age = input("How old are you?")
